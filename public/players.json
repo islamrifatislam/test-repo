@@ -1,0 +1,153 @@
+[
+{
+  "playerId": 1,
+  "name": "Virat Kohli",
+  "country": "India",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CQDvcER2-SfOBDz5Uc-6LEJ03voQVSKj8A&s",
+  "role": "Batsman",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm medium",
+  "biddingPrice": 100
+},
+{
+  "playerId": 2,
+  "name": "Ben Stokes",
+  "country": "England",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGon77kt88MsgIAuQjgzlEjMGZfl83ktnHA&s",
+  "role": "All-rounder",
+  "battingType": "Left-hand bat",
+  "bowlingType": "Right-arm fast-medium",
+  "biddingPrice": 200
+},
+{
+  "playerId": 3,
+  "name": "Mitchell Starc",
+  "country": "Australia",
+  "image": "https://api.bdcrictime.com/mitchell-starc-biography-21_06_2024.jpg",
+  "role": "Bowler",
+  "battingType": "Left-hand bat",
+  "bowlingType": "Left-arm fast",
+  "biddingPrice": 300
+},
+{
+  "playerId": 4,
+  "name": "Babar Azam",
+  "country": "Pakistan",
+  "image": "https://www.geosuper.tv/assets/uploads/updates/2021-12-22/12454_8540168_updates.gif",
+  "role": "Batsman",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm off-spin",
+  "biddingPrice": 500
+},
+{
+  "playerId": 5,
+  "name": "Kane Williamson",
+  "country": "New Zealand",
+  "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383100/383103.jpg",
+  "role": "Batsman",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm off-spin",
+  "biddingPrice": 400
+},
+{
+  "playerId": 6,
+  "name": "Rashid Khan",
+  "country": "Afghanistan",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYItrv2rcq_dbou02ovTwwSxlkBRL9NLwNA&s",
+  "role": "Bowler",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm leg-spin",
+  "biddingPrice": 600
+},
+{
+  "playerId": 7,
+  "name": "David Warner",
+  "country": "Australia",
+  "image": "https://m.media-amazon.com/images/M/MV5BNzA3N2UyZDktNmZiNC00MTk3LWE0MTYtOTExYTQzZTliMTE4XkEyXkFqcGc@._V1_.jpg",
+  "role": "Batsman",
+  "battingType": "Left-hand bat",
+  "bowlingType": "Right-arm leg-spin",
+  "biddingPrice": 700
+},
+{
+  "playerId": 8,
+  "name": "Andre Russell",
+  "country": "West Indies",
+  "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/378100/378198.6.jpg",
+  "role": "All-rounder",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm fast",
+  "biddingPrice": 900
+},
+{
+  "playerId": 9,
+  "name": "Jos Buttler",
+  "country": "England",
+  "image": "https://static.independent.co.uk/2022/11/12/07/4a655b514a0538cc8b0bb6e7b1cabefeY29udGVudHNlYXJjaGFwaSwxNjY4MzE5MTg5-2.69703789.jpg",
+  "role": "Wicketkeeper Batsman",
+  "battingType": "Right-hand bat",
+  "bowlingType": "N/A",
+  "biddingPrice": 800
+},
+{
+  "playerId": 10,
+  "name": "Trent Boult",
+  "country": "New Zealand",
+  "image": "https://images.icc-cricket.com/image/upload/t_ratio21_9-size60/prd/pki5xe1ulkbpxurjcyhc",
+  "role": "Bowler",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Left-arm fast-medium",
+  "biddingPrice": 500
+},
+{
+  "playerId": 11,
+  "name": "Quinton de Kock",
+  "country": "South Africa",
+  "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/quinton-de-kock-014342686-1x1.jpg?VersionId=2olRK3PuEIflTlZooWpYo4bEqQtkAeI1",
+  "role": "Wicketkeeper Batsman",
+  "battingType": "Left-hand bat",
+  "bowlingType": "N/A",
+  "biddingPrice": 400
+},
+{
+  "playerId": 12,
+  "name": "Shakib Al Hasan",
+  "country": "Bangladesh",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYdY_K-m5XPblXaOy8CkR3VuvkrhyKFcxGA&s",
+  "role": "All-rounder",
+  "battingType": "Left-hand bat",
+  "bowlingType": "Left-arm orthodox spin",
+  "biddingPrice": 20
+},
+{
+  "playerId": 13,
+  "name": "Jason Holder",
+  "country": "West Indies",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwScZYOPi996o-Dya2Qrbsdv0s9wcfd3iSw&s",
+  "role": "All-rounder",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm medium-fast",
+  "biddingPrice": 400
+},
+{
+  "playerId": 14,
+  "name": "Jasprit Bumrah",
+  "country": "India",
+  "image": "https://api.bdcrictime.com/jasprit-bumrahtdg-09_07_2024.jpg",
+  "role": "Bowler",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm fast",
+  "biddingPrice": 300
+},
+{
+  "playerId": 15,
+  "name": "AB de Villiers",
+  "country": "South Africa",
+  "image": "https://images.indianexpress.com/2019/12/ab-de-villiers-1200.jpg",
+  "role": "Batsman",
+  "battingType": "Right-hand bat",
+  "bowlingType": "Right-arm medium",
+  "biddingPrice": 1000
+}
+                                      ]
+                                      
